@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\spaceforwork\\MainCodeWorkspace\\UEH\\KTPM_HDV\\BTVN_B4\\SampleAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0E68B5C-F008-4B59-AE89-4B424D3A7575}|SampleAPI\\SampleAPI.csproj|d:\\spaceforwork\\maincodeworkspace\\ueh\\ktpm_hdv\\btvn_b4\\sampleapi\\sampleapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B0E68B5C-F008-4B59-AE89-4B424D3A7575}|SampleAPI\\SampleAPI.csproj|solutionrelative:sampleapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0E68B5C-F008-4B59-AE89-4B424D3A7575}|SampleAPI\\SampleAPI.csproj|d:\\spaceforwork\\maincodeworkspace\\ueh\\ktpm_hdv\\btvn_b4\\sampleapi\\sampleapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0E68B5C-F008-4B59-AE89-4B424D3A7575}|SampleAPI\\SampleAPI.csproj|solutionrelative:sampleapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0E68B5C-F008-4B59-AE89-4B424D3A7575}|SampleAPI\\SampleAPI.csproj|d:\\spaceforwork\\maincodeworkspace\\ueh\\ktpm_hdv\\btvn_b4\\sampleapi\\sampleapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0E68B5C-F008-4B59-AE89-4B424D3A7575}|SampleAPI\\SampleAPI.csproj|solutionrelative:sampleapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0E68B5C-F008-4B59-AE89-4B424D3A7575}|SampleAPI\\SampleAPI.csproj|d:\\spaceforwork\\maincodeworkspace\\ueh\\ktpm_hdv\\btvn_b4\\sampleapi\\sampleapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0E68B5C-F008-4B59-AE89-4B424D3A7575}|SampleAPI\\SampleAPI.csproj|solutionrelative:sampleapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0E68B5C-F008-4B59-AE89-4B424D3A7575}|SampleAPI\\SampleAPI.csproj|d:\\spaceforwork\\maincodeworkspace\\ueh\\ktpm_hdv\\btvn_b4\\sampleapi\\sampleapi\\service\\booksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0E68B5C-F008-4B59-AE89-4B424D3A7575}|SampleAPI\\SampleAPI.csproj|solutionrelative:sampleapi\\service\\booksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0E68B5C-F008-4B59-AE89-4B424D3A7575}|SampleAPI\\SampleAPI.csproj|d:\\spaceforwork\\maincodeworkspace\\ueh\\ktpm_hdv\\btvn_b4\\sampleapi\\sampleapi\\models\\bookstoredatabasesetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0E68B5C-F008-4B59-AE89-4B424D3A7575}|SampleAPI\\SampleAPI.csproj|solutionrelative:sampleapi\\models\\bookstoredatabasesetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\spaceforwork\\MainCodeWorkspace\\UEH\\KTPM_HDV\\BTVN_B4\\SampleAPI\\SampleAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "SampleAPI\\appsettings.json",
+              "ToolTip": "D:\\spaceforwork\\MainCodeWorkspace\\UEH\\KTPM_HDV\\BTVN_B4\\SampleAPI\\SampleAPI\\appsettings.json",
+              "RelativeToolTip": "SampleAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-22T16:26:06.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "D:\\spaceforwork\\MainCodeWorkspace\\UEH\\KTPM_HDV\\BTVN_B4\\SampleAPI\\SampleAPI\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "SampleAPI\\Controllers\\BooksController.cs",
+              "ToolTip": "D:\\spaceforwork\\MainCodeWorkspace\\UEH\\KTPM_HDV\\BTVN_B4\\SampleAPI\\SampleAPI\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "SampleAPI\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T16:04:29.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BooksService.cs",
+              "DocumentMoniker": "D:\\spaceforwork\\MainCodeWorkspace\\UEH\\KTPM_HDV\\BTVN_B4\\SampleAPI\\SampleAPI\\Service\\BooksService.cs",
+              "RelativeDocumentMoniker": "SampleAPI\\Service\\BooksService.cs",
+              "ToolTip": "D:\\spaceforwork\\MainCodeWorkspace\\UEH\\KTPM_HDV\\BTVN_B4\\SampleAPI\\SampleAPI\\Service\\BooksService.cs",
+              "RelativeToolTip": "SampleAPI\\Service\\BooksService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T15:55:58.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\spaceforwork\\MainCodeWorkspace\\UEH\\KTPM_HDV\\BTVN_B4\\SampleAPI\\SampleAPI\\Program.cs",
+              "RelativeDocumentMoniker": "SampleAPI\\Program.cs",
+              "ToolTip": "D:\\spaceforwork\\MainCodeWorkspace\\UEH\\KTPM_HDV\\BTVN_B4\\SampleAPI\\SampleAPI\\Program.cs",
+              "RelativeToolTip": "SampleAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T15:40:13.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookStoreDatabaseSetting.cs",
+              "DocumentMoniker": "D:\\spaceforwork\\MainCodeWorkspace\\UEH\\KTPM_HDV\\BTVN_B4\\SampleAPI\\SampleAPI\\Models\\BookStoreDatabaseSetting.cs",
+              "RelativeDocumentMoniker": "SampleAPI\\Models\\BookStoreDatabaseSetting.cs",
+              "ToolTip": "D:\\spaceforwork\\MainCodeWorkspace\\UEH\\KTPM_HDV\\BTVN_B4\\SampleAPI\\SampleAPI\\Models\\BookStoreDatabaseSetting.cs",
+              "RelativeToolTip": "SampleAPI\\Models\\BookStoreDatabaseSetting.cs",
+              "ViewState": "AgIAAAAAAAAANDMzMzPbvwkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T15:34:12.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\spaceforwork\\MainCodeWorkspace\\UEH\\KTPM_HDV\\BTVN_B4\\SampleAPI\\SampleAPI\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "SampleAPI\\Models\\Book.cs",
+              "ToolTip": "D:\\spaceforwork\\MainCodeWorkspace\\UEH\\KTPM_HDV\\BTVN_B4\\SampleAPI\\SampleAPI\\Models\\Book.cs",
+              "RelativeToolTip": "SampleAPI\\Models\\Book.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T15:33:37.712Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
