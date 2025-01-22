@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\spaceforwork\\MainCodeWorkspace\\UEH\\KTPM_HDV\\BTVN_B4\\TodoAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0800344D-4CBE-455E-9E38-EFC22C516707}|TodoAPI\\TodoAPI.csproj|d:\\spaceforwork\\maincodeworkspace\\ueh\\ktpm_hdv\\btvn_b4\\todoapi\\todoapi\\todoapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{0800344D-4CBE-455E-9E38-EFC22C516707}|TodoAPI\\TodoAPI.csproj|solutionrelative:todoapi\\todoapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0800344D-4CBE-455E-9E38-EFC22C516707}|TodoAPI\\TodoAPI.csproj|d:\\spaceforwork\\maincodeworkspace\\ueh\\ktpm_hdv\\btvn_b4\\todoapi\\todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0800344D-4CBE-455E-9E38-EFC22C516707}|TodoAPI\\TodoAPI.csproj|solutionrelative:todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0800344D-4CBE-455E-9E38-EFC22C516707}|TodoAPI\\TodoAPI.csproj|d:\\spaceforwork\\maincodeworkspace\\ueh\\ktpm_hdv\\btvn_b4\\todoapi\\todoapi\\model\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0800344D-4CBE-455E-9E38-EFC22C516707}|TodoAPI\\TodoAPI.csproj|solutionrelative:todoapi\\model\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0800344D-4CBE-455E-9E38-EFC22C516707}|TodoAPI\\TodoAPI.csproj|d:\\spaceforwork\\maincodeworkspace\\ueh\\ktpm_hdv\\btvn_b4\\todoapi\\todoapi\\tododb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0800344D-4CBE-455E-9E38-EFC22C516707}|TodoAPI\\TodoAPI.csproj|solutionrelative:todoapi\\tododb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TodoAPI.http",
+              "DocumentMoniker": "D:\\spaceforwork\\MainCodeWorkspace\\UEH\\KTPM_HDV\\BTVN_B4\\TodoAPI\\TodoAPI\\TodoAPI.http",
+              "RelativeDocumentMoniker": "TodoAPI\\TodoAPI.http",
+              "ToolTip": "D:\\spaceforwork\\MainCodeWorkspace\\UEH\\KTPM_HDV\\BTVN_B4\\TodoAPI\\TodoAPI\\TodoAPI.http",
+              "RelativeToolTip": "TodoAPI\\TodoAPI.http",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-01-22T08:37:35.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TodoDB.cs",
+              "DocumentMoniker": "D:\\spaceforwork\\MainCodeWorkspace\\UEH\\KTPM_HDV\\BTVN_B4\\TodoAPI\\TodoAPI\\TodoDB.cs",
+              "RelativeDocumentMoniker": "TodoAPI\\TodoDB.cs",
+              "ToolTip": "D:\\spaceforwork\\MainCodeWorkspace\\UEH\\KTPM_HDV\\BTVN_B4\\TodoAPI\\TodoAPI\\TodoDB.cs",
+              "RelativeToolTip": "TodoAPI\\TodoDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T08:26:16.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Todo.cs",
+              "DocumentMoniker": "D:\\spaceforwork\\MainCodeWorkspace\\UEH\\KTPM_HDV\\BTVN_B4\\TodoAPI\\TodoAPI\\model\\Todo.cs",
+              "RelativeDocumentMoniker": "TodoAPI\\model\\Todo.cs",
+              "ToolTip": "D:\\spaceforwork\\MainCodeWorkspace\\UEH\\KTPM_HDV\\BTVN_B4\\TodoAPI\\TodoAPI\\model\\Todo.cs",
+              "RelativeToolTip": "TodoAPI\\model\\Todo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T08:24:28.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\spaceforwork\\MainCodeWorkspace\\UEH\\KTPM_HDV\\BTVN_B4\\TodoAPI\\TodoAPI\\Program.cs",
+              "RelativeDocumentMoniker": "TodoAPI\\Program.cs",
+              "ToolTip": "D:\\spaceforwork\\MainCodeWorkspace\\UEH\\KTPM_HDV\\BTVN_B4\\TodoAPI\\TodoAPI\\Program.cs",
+              "RelativeToolTip": "TodoAPI\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T08:19:43.833Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
